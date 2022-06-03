@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning to code/program?
 - 🌱 I’m currently learning ...html/css from freecodebootcamp
 - 💞️ I’m looking to collaborate on ...developing webpages and maybe applications 
-- 📫 How to reach me ...on here amd by email
+- 📫 How to reach me ...on here and by email
 
 <!---
 Tresaw/Tresaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
