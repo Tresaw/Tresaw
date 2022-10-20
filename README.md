@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tresaw
 - 👀 I’m interested in ...learning to code/program?
-- 🌱 I’m currently learning ...html/css from freecodebootcamp
+- 🌱 I’m currently learning ...Full Stack Web Development through The Odin Project
 - 💞️ I’m looking to collaborate on ...developing webpages and maybe applications 
 - 📫 How to reach me ...on here and by email
 
